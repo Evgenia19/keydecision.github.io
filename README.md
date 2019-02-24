@@ -1,1 +1,1 @@
-keydecision.git.io
+keydecision.github.io
